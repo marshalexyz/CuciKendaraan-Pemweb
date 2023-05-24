@@ -1,2 +1,2 @@
 # CuciKendaraan-Pemweb
-Untuk memenuhi kebutuhan tugas Pemweb Lanjut
+Untuk memenuhi kebutuhan tugas Pemrograman Web Lanjut
